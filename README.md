@@ -47,5 +47,4 @@ This project is a summary of this back-end trimester: authentication, NodeJS, Mo
 ---
 
 ## Author
-* **Paula Sotelo** - [omeinsotelo](https://github.com/omeinsotelo)
-* **Felipe Satizabal** - [felipesv](https://github.com/felipesv)
+* **Adonis Tejeda** - [adonis7ejeda](https://github.com/adonis7ejeda)
